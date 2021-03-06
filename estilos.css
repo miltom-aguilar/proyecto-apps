@@ -1,0 +1,273 @@
+.pantalla1{
+position: relative;
+width: 1440px;
+height: 1024px;
+
+background: #2E3F79;
+margin: 0em;
+padding: 0%;
+}
+.cuadro{
+position: absolute;
+width: 1343px;
+height: 133px;
+left: 51px;
+top: 37px;
+
+background: #1A1F3C;
+}
+.imagen1{
+    position: absolute;
+width: 1343px;
+height: 740px;
+left: 51px;
+top: 211px;
+
+}
+.biografia{
+    position: absolute;
+width: 280px;
+height: 48px;
+left: 164px;
+top: 85px;
+
+font-family: Work Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 34px;
+line-height: 40px;
+letter-spacing: -0.02em;
+
+color: #B3C1AC;
+
+
+}.portafolio{
+    position: absolute;
+width: 289px;
+height: 51px;
+left: 638px;
+top: 85px;
+
+font-family: Work Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 34px;
+line-height: 40px;
+letter-spacing: -0.02em;
+
+color: #CEC6C6;
+
+}
+.inicio{
+    position: absolute;
+    width: 290px;
+    height: 42px;
+    left: 1067px;
+    top: 85px; 
+
+    font-family: Work Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 34px;
+line-height: 40px;
+letter-spacing: -0.02em;
+
+color: #CEC6C6;
+
+}
+.pantalla2{
+    position: relative;
+width: 1440px;
+height: 1024px;
+
+background: #6E726D;
+}
+.cuadro2{
+    position: absolute;
+width: 1343px;
+height: 133px;
+left: 51px;
+top: 37px;
+
+background: #1A1F3C;
+}
+.biografia2{position: absolute;
+    width: 280px;
+    height: 48px;
+    left: 164px;
+    top: 85px;
+    
+    /* Header 1 */
+    
+    font-family: Work Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 34px;
+    line-height: 40px;
+    letter-spacing: -0.02em;
+    
+    color: #B3C1AC;
+    }
+
+    .imagen2{
+        position: absolute;
+width: 265px;
+height: 246px;
+left: 96px;
+top: 356px;
+
+    }
+.tex1{
+    position: absolute;
+width: 690px;
+height: 97px;
+left: 528px;
+top: 479px;
+
+/* Header 1 */
+
+font-family: Work Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 34px;
+line-height: 40px;
+letter-spacing: -0.02em;
+
+color: #000000;
+
+}
+ 
+.tex2{
+    position: absolute;
+width: 771px;
+height: 89px;
+left: 508px;
+top: 302px;
+
+/* Header 1 */
+
+font-family: Work Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 34px;
+line-height: 40px;
+letter-spacing: -0.02em;
+
+color: #000000;
+
+}
+
+.pantalla3{
+ position: relative;
+width: 1440px;
+height: 1024px;
+
+background: #EBF9E5;
+}
+.cuadro3{
+    position: absolute;
+width: 1440px;
+height: 1024px;
+left: 1px;
+top: 0px;
+
+background: url("img/Rectangle\ 3.png");
+}
+.img4{
+    position: absolute;
+width: 222px;
+height: 291px;
+left: 609px;
+top: 100px;
+
+}
+.img5{
+    position: absolute;
+width: 143px;
+height: 99px;
+left: 303px;
+top: 413px;
+
+background: url(facebook.png);
+}
+.img6{position: absolute;
+    width: 175px;
+    height: 103px;
+    left: 520px;
+    top: 423px;}
+
+.img7{position: absolute;
+    width: 157px;
+    height: 99px;
+    left: 791px;
+    top: 421px;
+    
+}
+.img8{position: absolute;
+    width: 145px;
+    height: 107px;
+    left: 1044px;
+    top: 413px;
+    }
+
+.lenguajes{
+    position: absolute;
+width: 402px;
+height: 55px;
+left: 89px;
+top: 570px;
+
+/* Header 1 */
+
+font-family: Work Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 34px;
+line-height: 40px;
+letter-spacing: -0.02em;
+
+
+color: #F0DDDD;
+
+
+}
+.img9{position: absolute;
+    width: 164px;
+    height: 160px;
+    left: 139px;
+    top: 625px;
+    padding-top: 50px;
+}
+.img10{position: absolute;
+    width: 163px;
+    height: 202px;
+    left: 672px;
+    top: 625px;
+}
+.ultima{
+    position: absolute;
+width: 167px;
+height: 202px;
+left: 1156px;
+top: 625px;
+
+}
+.profe{ position: absolute;
+    width: 385px;
+    height: 105px;
+    left: 106px;
+    top: 67px;
+    
+    /* Header 1 */
+    
+    font-family: Work Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 34px;
+    line-height: 40px;
+    letter-spacing: -0.02em;
+    
+    color: #000000;
+    }
+    
+ 
